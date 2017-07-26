@@ -36,10 +36,10 @@ Encounters are designated with an exclamation point. Encounters include instance
 
 ## Objects
 
-Vecna considers Objects to be anything a player can interact with. NPCs, monsters, treasure, traps, secrets, all of these things are Objects. Objects live inside containers, which themselves may exist inside other containers. Object types and their designations are listed below:
+Vecna considers Objects to be anything a player can interact with. Characters, NPCs, monsters, treasure, traps, secrets, all of these things are Objects. Objects live inside containers, which themselves may exist inside other containers. Object types and their designations are listed below:
 
 ```
-@Non-Player Character
+@Character/NPC
 $Item
 ^Hazard
 ?Secret
